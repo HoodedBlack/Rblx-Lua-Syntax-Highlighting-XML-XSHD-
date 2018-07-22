@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!-- Syntax Definition for RblxLua -->
 
-<SyntaxDefinition name = "SharpLua" extensions = ".slua;.lua">
+<SyntaxDefinition name = "RblxLua" extensions = ".slua;.lua">
     
     <Properties>
         <Property name="LineComment" value="--"/>
